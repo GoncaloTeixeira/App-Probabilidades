@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="App_Probabilidades.Views.Rules">
+    <ContentPage.Content>
+
+        <!--<Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5*" />
+            </Grid.RowDefinitions>
+
+            <Label Grid.Row="0" Grid.Column="0"  Text="Aqui vamos introduzir as regras do jogo jgvhk " />
+            <Button Grid.Row="2" Grid.Column="0" x:Name="but_retroceder" Text="Retroceder"  />
+            
+        </Grid>-->
+
+        <ScrollView>
+            <StackLayout  VerticalOptions="StartAndExpand">
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Label Text="Aqui vamos introduzir as regras do jogo  " />
+                <Button  x:Name="but_retroceder" Text="Retroceder"  />
+            </StackLayout>
+
+
+        </ScrollView>
+        
+
+
+
+
+
+
+
+
+    </ContentPage.Content>
+</ContentPage>

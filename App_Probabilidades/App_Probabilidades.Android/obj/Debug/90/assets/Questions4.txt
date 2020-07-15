@@ -1,0 +1,50 @@
+O João comprou um saco com 200 rebuçados com diferentes sabores. Depois de separar todosos rebuçados por sabor, o João contou quantos rebuçados estavam no saco com cada sabor eescreveu as contagens que fez na tabela seguinte:
+tabela_04_2CEB.png
+1
+Qual é a moda?
+Limão
+Ananás
+44 rebuçados
+55 rebuçados
+2
+O João tira um rebuçado à sorte do saco. O que é mais provável?
+Tirar um rebuçado de banana
+Tirar um rebuçado de ananás
+Tirar um rebuçado de laranja
+Tirar um rebuçado de morango
+3
+O João tira um rebuçado à sorte do saco. O que é mais provável? 
+Não tirar um rebuçado de laranja
+Tirar um rebuçado de banana
+Tirar um rebuçado de ananás
+Não tirar um rebuçado de banana
+4
+Qual é a frequência relativa de rebuçados de laranja?
+33/200
+33/100
+1/4
+1/5
+5
+Qual é a percentagem de rebuçados de ananás no saco?
+17,5%
+0%
+35%
+100%
+6
+Qual é a percentagem de rebuçados de banana no saco?
+22%
+44%
+50%
+88%
+7
+Qual é a percentagem de rebuçados de limão no saco?
+50%
+0%
+25%
+75%
+8
+Qual é a percentagem de rebuçados de morango no saco?
+19%
+0%
+38%
+50%

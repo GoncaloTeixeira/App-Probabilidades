@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="App_Probabilidades.MainPage"
+             BackgroundImageSource="BackGroundGradient.png"
+               >
+
+
+
+    <Grid Margin="0" Padding="0">
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition Width="*" />
+
+        </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="5*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="1*" />
+            </Grid.RowDefinitions>
+
+
+        <Label Grid.Column="0" Grid.Row="0" FontSize="70" HorizontalOptions="CenterAndExpand" FontFamily="Amatic-Bold.ttf#Amatic" TextColor="red" FontAttributes="Italic">Probabilidades
+          
+        </Label>
+        
+        <Image Grid.Column="0" Grid.Row="1" Source="Monkey.png" />
+
+        <ImageButton x:Name="bt_play" Margin="0" Grid.Column="0"  Grid.Row="2" Source="but_Jogar.png" BackgroundColor="Transparent" BorderWidth="0" Clicked="Bt_play_Clicked" />
+        <ImageButton x:Name="bt_rules" Grid.Column="0" Grid.Row="3"  Source="but_Regras.png" BackgroundColor="Transparent" Clicked="Bt_rules_Clicked"/>
+        <ImageButton x:Name="bt_scoreBoard"  Grid.Column="0" Grid.Row="4" Source="but_ScoreBoard.png" BackgroundColor="Transparent" Clicked="Bt_scoreBoard_Clicked"/>
+    </Grid>
+    
+
+</ContentPage>

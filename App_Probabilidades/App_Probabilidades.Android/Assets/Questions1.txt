@@ -1,0 +1,44 @@
+O número de animais de estimação de cada um dos 25 alunos de uma turma foi organizado na tabela seguinte:
+tabela_01_2CEB.png
+1
+Qual é a moda?
+1 animal de estimação
+8 alunos
+25 alunos
+5 animais de estimação
+2
+Qual é a frequência relativa de alunos que não têm animais de estimação?
+1/5
+5
+1/25
+8/25
+3
+Qual é a frequência relativa de alunos que têm animais de estimação?
+4/5
+1/5
+8/25
+1/2
+4
+Qual é a percentagem de alunos que não têm animais de estimação?
+20%
+0%
+5%
+50%
+5
+Qual é a percentagem de alunos que têm 6 animais de estimação?
+0%
+5%
+20%
+50%
+6
+Qual é a percentagem de alunos que têm no máximo 5 animais de estimação?
+50%
+0%
+5%
+20%
+7
+Qual é a percentagem de alunos que têm mais de 3 animais de estimação?
+20%
+0%
+5%
+50%

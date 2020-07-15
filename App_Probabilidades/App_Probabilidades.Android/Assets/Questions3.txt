@@ -1,0 +1,80 @@
+Um biólogo encontrou 20 ninhos de pardais numa floresta e contou o número de ovos em cada ninho. De seguida, organizou os números de ovos que contou na tabela seguinte: 
+tabela_03_2CEB.png
+1
+Qual é a moda?
+2 ovos por ninho
+1 ovo por ninho
+7 ninhos
+20 ninhos
+2
+Qual é mais provável?
+Um ninho ter 2 ovos
+Um ninho ter 3 ovos
+Um ninho ter 4 ovos
+Um ninho ter 5 ovos
+3
+Qual é a frequência relativa de ninhos com 5 ovos?
+1/20
+1 ninho
+1/10
+3/20
+4
+Qual é a frequência relativa de ninhos com 4 ovos?
+1/5
+4/5
+1/4
+1/20
+5
+Qual é a percentagem de ninhos com apenas um ovo?
+15%
+0%
+3%
+7,5%
+6
+Qual é a percentagem de ninhos sem ovos? 
+0%
+3%
+7,5%
+15%
+7
+Qual é a percentagem de ninhos com dois ovos?
+35%
+7%
+15%
+50%
+8
+Qual é a percentagem de ninhos com três ovos? 
+25%
+5%
+20%
+50%
+9
+Qual é a percentagem de ninhos com quatro ovos? 
+20%
+5%
+25%
+50%
+10
+Qual é a percentagem de ninhos com cinco ovos? 
+5%
+0%
+1%
+15%
+11
+Qual é a percentagem de ninhos com seis ovos?
+0%
+3%
+6%
+15%
+12
+Qual é a percentagem de ninhos com mais de três ovos? 
+25%
+3%
+4%
+5%
+13
+Qual é a percentagem de ninhos com menos de três ovos? 
+50%
+3%
+5%
+10%

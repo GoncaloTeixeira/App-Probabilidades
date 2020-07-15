@@ -1,0 +1,49 @@
+C:\Users\gonca\Desktop\App_Probabilidades\App_Probabilidades\App_Probabilidades\bin\Debug\netstandard2.0\App_Probabilidades.deps.json
+C:\Users\gonca\Desktop\App_Probabilidades\App_Probabilidades\App_Probabilidades\bin\Debug\netstandard2.0\App_Probabilidades.dll
+C:\Users\gonca\Desktop\App_Probabilidades\App_Probabilidades\App_Probabilidades\bin\Debug\netstandard2.0\ref\App_Probabilidades.dll
+C:\Users\gonca\Desktop\App_Probabilidades\App_Probabilidades\App_Probabilidades\bin\Debug\netstandard2.0\App_Probabilidades.pdb
+C:\Users\gonca\Desktop\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App_Probabilidades.csprojAssemblyReference.cache
+C:\Users\gonca\Desktop\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\gonca\Desktop\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\gonca\Desktop\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\Views\Pergunta.xaml.g.cs
+C:\Users\gonca\Desktop\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App_Probabilidades.AssemblyInfoInputs.cache
+C:\Users\gonca\Desktop\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App_Probabilidades.AssemblyInfo.cs
+C:\Users\gonca\Desktop\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\gonca\Desktop\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App_Probabilidades.dll
+C:\Users\gonca\Desktop\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\ref\App_Probabilidades.dll
+C:\Users\gonca\Desktop\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App_Probabilidades.pdb
+C:\Users\gonca\Desktop\Lab Projeto\trunk\App_Probabilidades\App_Probabilidades\App_Probabilidades\bin\Debug\netstandard2.0\App_Probabilidades.deps.json
+C:\Users\gonca\Desktop\Lab Projeto\trunk\App_Probabilidades\App_Probabilidades\App_Probabilidades\bin\Debug\netstandard2.0\App_Probabilidades.dll
+C:\Users\gonca\Desktop\Lab Projeto\trunk\App_Probabilidades\App_Probabilidades\App_Probabilidades\bin\Debug\netstandard2.0\ref\App_Probabilidades.dll
+C:\Users\gonca\Desktop\Lab Projeto\trunk\App_Probabilidades\App_Probabilidades\App_Probabilidades\bin\Debug\netstandard2.0\App_Probabilidades.pdb
+C:\Users\gonca\Desktop\Lab Projeto\trunk\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\gonca\Desktop\Lab Projeto\trunk\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\gonca\Desktop\Lab Projeto\trunk\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App_Probabilidades.AssemblyInfoInputs.cache
+C:\Users\gonca\Desktop\Lab Projeto\trunk\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App_Probabilidades.AssemblyInfo.cs
+C:\Users\gonca\Desktop\Lab Projeto\trunk\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App_Probabilidades.dll
+C:\Users\gonca\Desktop\Lab Projeto\trunk\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\ref\App_Probabilidades.dll
+C:\Users\gonca\Desktop\Lab Projeto\trunk\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App_Probabilidades.pdb
+C:\Users\gonca\Desktop\Lab Projeto\trunk\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App_Probabilidades.csproj.CoreCompileInputs.cache
+C:\Users\gonca\Desktop\Lab Projeto\trunk\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\gonca\Desktop\Lab Projeto\trunk\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\Views\QuestionView.xaml.g.cs
+C:\Users\gonca\Desktop\Lab Projeto\trunk\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\Views\RulesView.xaml.g.cs
+C:\Users\gonca\Desktop\Lab Projeto\trunk\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\Views\ScoreBoardView.xaml.g.cs
+C:\Users\gonca\Desktop\Lab Projeto\trunk\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\Views\EndGame.xaml.g.cs
+C:\Users\gonca\Desktop\Projeto\App_Probabilidades\App_Probabilidades\App_Probabilidades\bin\Debug\netstandard2.0\App_Probabilidades.deps.json
+C:\Users\gonca\Desktop\Projeto\App_Probabilidades\App_Probabilidades\App_Probabilidades\bin\Debug\netstandard2.0\App_Probabilidades.dll
+C:\Users\gonca\Desktop\Projeto\App_Probabilidades\App_Probabilidades\App_Probabilidades\bin\Debug\netstandard2.0\ref\App_Probabilidades.dll
+C:\Users\gonca\Desktop\Projeto\App_Probabilidades\App_Probabilidades\App_Probabilidades\bin\Debug\netstandard2.0\App_Probabilidades.pdb
+C:\Users\gonca\Desktop\Projeto\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App_Probabilidades.csprojAssemblyReference.cache
+C:\Users\gonca\Desktop\Projeto\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\gonca\Desktop\Projeto\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\gonca\Desktop\Projeto\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\Views\EndGame.xaml.g.cs
+C:\Users\gonca\Desktop\Projeto\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\Views\QuestionView.xaml.g.cs
+C:\Users\gonca\Desktop\Projeto\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\Views\RulesView.xaml.g.cs
+C:\Users\gonca\Desktop\Projeto\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\Views\ScoreBoardView.xaml.g.cs
+C:\Users\gonca\Desktop\Projeto\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App_Probabilidades.AssemblyInfoInputs.cache
+C:\Users\gonca\Desktop\Projeto\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App_Probabilidades.AssemblyInfo.cs
+C:\Users\gonca\Desktop\Projeto\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App_Probabilidades.csproj.CoreCompileInputs.cache
+C:\Users\gonca\Desktop\Projeto\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\gonca\Desktop\Projeto\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App_Probabilidades.dll
+C:\Users\gonca\Desktop\Projeto\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\ref\App_Probabilidades.dll
+C:\Users\gonca\Desktop\Projeto\App_Probabilidades\App_Probabilidades\App_Probabilidades\obj\Debug\netstandard2.0\App_Probabilidades.pdb

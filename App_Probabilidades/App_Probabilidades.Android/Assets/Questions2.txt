@@ -1,0 +1,74 @@
+Numa festa de aniversário estavam 40 crianças. Na tabela seguinte está indicada a cor da camisola que cada criança usava:
+tabela_02_2CEB.png
+1
+Qual é a moda?
+Azul
+Branca
+Vermelha
+15
+2
+O que é mais provável?
+Uma criança da festa não ter uma camisola azul
+Uma criança da festa ter uma camisola azul
+Uma criança da festa ter uma camisola verde
+Uma criança da festa ter uma camisola vermelha
+3
+O que é mais provável?
+Uma criança da festa não ter uma camisola vermelha
+Uma criança da festa não ter uma camisola azul
+Uma criança da festa ter uma camisola azul
+Uma criança da festa ter uma camisola verde
+4
+Qual é a frequência relativa de crianças que usavam uma camisola amarela?
+1/10
+4
+4/10
+4/100
+5
+Qual é a frequência relativa de crianças que não usavam uma camisola vermelha?
+4/5
+8/100
+1/5
+1/10
+6
+Qual é a frequência relativa de crianças que usavam uma camisola verde ou vermelha?
+1/4
+1/20
+1/5
+1/10
+7
+Qual é a percentagem (arredondada às décimas) de crianças que usavam camisola azul?
+37,5%
+15%
+50%
+62,5%
+8
+Qual é a percentagem (arredondada às décimas) de crianças que não usavam camisola azul?
+62,5%
+15%
+37,5%
+50%
+9
+Qual é a percentagem (arredondada às décimas) de crianças que usavam camisola branca?
+15%
+37,5%
+50%
+62,5%
+10
+Qual é a percentagem (arredondada às décimas) de crianças que usavam camisola cor-de-rosa?
+12,5%
+5%
+50%
+87,5%
+11
+Qual é a percentagem (arredondada às décimas) de crianças que usavam camisola verde?
+5%
+12,5%
+50%
+87,5%
+12
+Qual é a percentagem (arredondada às décimas) de crianças que usavam camisola vermelha?
+20%
+8%
+15%
+40%

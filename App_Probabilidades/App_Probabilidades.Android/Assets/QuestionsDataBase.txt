@@ -1,0 +1,35 @@
+1
+saco_01_1CEB.png
+Dentro de um saco de pano estão 5 bolas amarelas. Vais meter a mão no saco e tirar uma bola ao acaso. Se alguém disser que vai sair bola azul, podes dizer que isso é:
+Impossível
+Certo
+Muito provável
+Pouco provável
+2
+saco_01_1CEB.png
+Dentro de um saco de pano estão 5 bolas amarelas. Vais meter a não no saco e tirar uma bola ao acaso. Se alguém disser que vai sair bola amarela, podes dizer que isso é:
+Certo
+Muito provável
+Pouco provável
+Impossível
+3
+saco_02_1CEB.png
+Dentro de um saco de pano estão 9 bolas amarelas e uma bola azul. Vais meter a mão no saco e tirar uma bola ao acaso. Se alguém disser que vai sair bola amarela, podes dizer que isso é:
+Muito provável
+Certo
+Pouco provável
+Impossível
+4
+saco_02_1CEB.png
+Dentro de um saco de pano estão 9 bolas amarelas e uma bola azul. Vais meter a mão no saco e tirar uma bola ao acaso. Se alguém disser que vai sair bola azul, podes dizer que isso é:
+Pouco provável
+Certo
+Muito provável
+Impossível
+5
+saco_02_1CEB.png
+Dentro de um saco de pano estão 9 bolas amarelas e uma bola azul. Vais meter a mão no saco e tirar uma bola ao acaso. Se alguém disser que vai sair bola verde, podes dizer que isso é:
+Impossível
+Certo
+Muito provável
+Pouco provável

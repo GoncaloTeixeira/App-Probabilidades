@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "a0Xyunj0O3/3KVO3XMI8dQ9L6bvFR0gfamUcN8LBs5Sg86wjgK5d4V0u6Udpba46s4EltTmRAyIhL5pcRmog/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gonca\\Desktop\\Projeto\\App_Probabilidades\\App_Probabilidades\\App_Probabilidades.iOS\\App_Probabilidades.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gonca\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512",
+    "C:\\Users\\gonca\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\gonca\\.nuget\\packages\\xamarin.forms\\4.7.0.1080\\xamarin.forms.4.7.0.1080.nupkg.sha512"
+  ],
+  "logs": []
+}
